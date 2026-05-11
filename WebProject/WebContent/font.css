@@ -1,0 +1,25 @@
+@CHARSET "UTF-8"
+
+@font-face {
+	font-family: "NanumSquareR";
+	src: url("../assets/fonts/nanum-square/NanumSquareR.ttf") format("truetype"), 
+  		 url("../assets/fonts/nanum-square/NanumSquareR.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "NanumSquareEB";
+	src: url("../assets/fonts/nanum-square/NanumSquareEB.ttf") format("truetype"), 
+  		 url("../assets/fonts/nanum-square/NanumSquareEB.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "NanumSquareL";
+	src: url("../assets/fonts/nanum-square/NanumSquareL.ttf") format("truetype"), 
+  		 url("../assets/fonts/nanum-square/NanumSquareL.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "NanumSquareB";
+	src: url("../assets/fonts/nanum-square/NanumSquareB.ttf") format("truetype"), 
+  		 url("../assets/fonts/nanum-square/NanumSquareB.otf") format("opentype");
+}
